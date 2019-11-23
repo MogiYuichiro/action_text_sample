@@ -14,7 +14,7 @@ hostname = motegiyuuichirou-no-MacBook-Pro.local
 uname -m = x86_64
 uname -r = 18.7.0
 uname -s = Darwin
-uname -v = Darwin Kernel Version 18.7.0: Tue Aug 20 16:57:14 PDT 2019; root:xnu-4903.271.2~2/RELEASE_X86_64
+uname -v = Darwin Kernel Version 18.7.0: Sat Oct 12 00:02:19 PDT 2019; root:xnu-4903.278.12~1/RELEASE_X86_64
 
 /usr/bin/uname -p = i386
 /bin/uname -X     = unknown
@@ -23,21 +23,22 @@ uname -v = Darwin Kernel Version 18.7.0: Tue Aug 20 16:57:14 PDT 2019; root:xnu-
 /usr/bin/arch -k       = unknown
 /usr/convex/getsysinfo = unknown
 /usr/bin/hostinfo      = Mach kernel version:
-	 Darwin Kernel Version 18.7.0: Tue Aug 20 16:57:14 PDT 2019; root:xnu-4903.271.2~2/RELEASE_X86_64
+	 Darwin Kernel Version 18.7.0: Sat Oct 12 00:02:19 PDT 2019; root:xnu-4903.278.12~1/RELEASE_X86_64
 Kernel configured for up to 4 processors.
 2 processors are physically available.
 4 processors are logically available.
 Processor type: x86_64h (Intel x86-64h Haswell)
 Processors active: 0 1 2 3
 Primary memory available: 8.00 gigabytes
-Default processor set: 425 tasks, 2544 threads, 4 processors
-Load average: 5.92, Mach factor: 0.76
+Default processor set: 482 tasks, 2567 threads, 4 processors
+Load average: 2.59, Mach factor: 1.72
 /bin/machine           = unknown
 /usr/bin/oslevel       = unknown
 /bin/universe          = unknown
 
 PATH: /Users/yuichiro/.rbenv/versions/2.5.3/bin
 PATH: /usr/local/Cellar/rbenv/1.1.2/libexec
+PATH: /usr/local/opt/openssl@1.1/bin
 PATH: /Users/yuichiro/.nodebrew/current/bin
 PATH: /Users/yuichiro/.rbenv/shims
 PATH: /Users/yuichiro/.rbenv/bin
